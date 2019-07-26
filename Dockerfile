@@ -5,7 +5,7 @@
 # SOURCE: https://github.com/puckel/docker-airflow
 
 FROM python:3.6-slim
-LABEL maintainer="Puckel_"
+LABEL maintainer="thuvh_"
 
 # Never prompts the user for choices on installation/configuration of packages
 ENV DEBIAN_FRONTEND noninteractive
